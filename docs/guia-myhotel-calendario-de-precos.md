@@ -1,7 +1,7 @@
 ---
 sidebar_label: Calendário de Preços
 title: Calendário de Preços
-description: Aprenda a consultar e gerenciar preços, restrições e disponibilidade de quartos utilizando o Calendário de Preços no sistema.
+description: Aprenda a consultar e gerenciar preços, restrições e disponibilidade de quartos no Calendário de Preços.
 slug: /guia-myhotel-calendario-de-precos
 ---
 
@@ -49,7 +49,7 @@ Após selecionar o "tipo de quarto" do tarifário que deseja consultar, é impor
 ![imagem-8](/assets/guia-myhotel-calendario-de-precos/imagem-8.webp)
 ![imagem-9](/assets/guia-myhotel-calendario-de-precos/imagem-9.webp)
 
-8.  **INFORMAÇÕES:** ao passar o mouse sobre este botão, será exibida uma legenda com as cores relacionadas à disponibilidade do hotel - *‘Aberto para Vendas’, ‘Fechado para Vendas’, ‘Fechado Parcialmente para Vendas’ e ‘Allotment Indisponível’* - e que aparecerão no calendário de preços:
+8.  **INFORMAÇÕES:** ao estacionar o mouse neste botão, será exibida uma legenda com as cores relacionadas à disponibilidade do hotel - *‘Aberto para Vendas’, ‘Fechado para Vendas’, ‘Fechado Parcialmente para Vendas’ e ‘Allotment Indisponível’* - e que aparecerão no calendário de preços:
 
 ## Detalhes e Edição
 
@@ -58,56 +58,57 @@ Após selecionar o "tipo de quarto" do tarifário que deseja consultar, é impor
 
 Ao clicar em um dia, abrirá uma janela de ‘informações’, mostrando preços, disponibilidade e restrições que estão cadastrados para o tipo de quarto do tarifário:
 
-*   **Preços:** valor por ‘Adulto (PAX) ou Criança’ de acordo com a ocupação configurada para o tipo de quarto.
-*   **Allotment:** quantidade de quartos disponíveis para vendas, distribuídos por ‘Allotment’ ou ‘Ocupação’.
-*   **Restrições:** cadastro de ‘Mín. de Dias’, ‘Máx. de Dias’, ‘Estadia Certa’, ‘Dias de Antecedência’, ‘Fechado à Chegada’, ‘Fechado à Saída’ (‘Venda Parada’: informa se tem fecho de vendas aplicado para o dia).
+- **Preços:** valor por ‘Adulto (PAX) ou Criança’ de acordo com a ocupação configurada para o tipo de quarto.
+- **Allotment:** quantidade de quartos disponíveis para vendas, distribuídos por ‘Allotment’ ou ‘Ocupação’.
+- **Restrições:** cadastro de ‘Mín. de Dias’, ‘Máx. de Dias’, ‘Estadia Certa’, ‘Dias de Antecedência’, ‘Fechado à Chegada’, ‘Fechado à Saída’ (‘Venda Parada’: informa se tem fecho de vendas aplicado para o dia).
 
 E ao clicar no botão **‘Editar’** (sinalizado com ícone de lápis) no canto superior direito da janela de informações, aparecerão mais opções:
 
 ![imagem-12](/assets/guia-myhotel-calendario-de-precos/imagem-12.webp)
 
-*   **Editar:** será possível **‘Editar Detalhes da Tarifa / Tipo de Quarto’** para seguir com as atualizações de:
-    *   **‘Preços do Quarto’:** aqui também será possível fazer atualizações de preços por ‘Preço Fixo’ ou ‘Variação de Preço’.
+- **Editar:** será possível **‘Editar Detalhes da Tarifa / Tipo de Quarto’** para seguir com as atualizações de:
+  - **‘Preços do Quarto’:** aqui também será possível fazer atualizações de preços por ‘Preço Fixo’ ou ‘Variação de Preço’.
 
-        Para os tarifários com o ‘Tipo de Disponibilidade: Tarifário ou Tarifário com impacto no inventário’, além de atualizar o preço, também será possível **atualizar o ‘allotment’**:
+    Para os tarifários com o ‘Tipo de Disponibilidade: Tarifário ou Tarifário com impacto no inventário’, além de atualizar o preço, também será possível **atualizar o ‘allotment’**:
 
 ![imagem-13](/assets/guia-myhotel-calendario-de-precos/imagem-13.webp)
 ![imagem-14](/assets/guia-myhotel-calendario-de-precos/imagem-14.webp)
 
-*   **‘Restrições do Tarifário’:**
+- **‘Restrições do Tarifário’:**
 
 ![imagem-15](/assets/guia-myhotel-calendario-de-precos/imagem-15.webp)
 ![imagem-16](/assets/guia-myhotel-calendario-de-precos/imagem-16.webp)
 
-*   **‘Fechar/Abrir Vendas’:**
+- **‘Fechar/Abrir Vendas’:**
 
 ![imagem-17](/assets/guia-myhotel-calendario-de-precos/imagem-17.webp)
 ![imagem-18](/assets/guia-myhotel-calendario-de-precos/imagem-18.webp)
 
-*   **‘Informação da Tarifa’:** informando os extras, as taxas, as ofertas e os canais que foram atribuídos ao tarifário.
+- **‘Informação da Tarifa’:** informando os extras, as taxas, as ofertas e os canais que foram atribuídos ao tarifário.
 
 Após realizar a atualização das informações, clique em **‘Salvar’**.
 
-*   **Fechar este(s) dia(s):** aplicar fecho de vendas para o dia ou período selecionado.
-*   **Abrir este(s) dia(s):** aplicar abertura de vendas para o dia ou período selecionado.
+- **Fechar este(s) dia(s):** aplicar fecho de vendas para o dia ou período selecionado.
+- **Abrir este(s) dia(s):** aplicar abertura de vendas para o dia ou período selecionado.
 
 ## IMPORTANTE SABER
 
-AO PASSAR O MOUSE SOBRE UM DIA DO CALENDÁRIO, APARECERÁ TAMBÉM O BOTÃO ‘EDITAR’ (SINALIZADO POR UM ÍCONE EM FORMATO DE LÁPIS) NO CANTO SUPERIOR DIREITO DO QUADRADO DO DIA. E SERÁ POSSÍVEL CLICAR EM ‘EDITAR’, ‘FECHAR ESTE(S) DIA(S)’ E ‘ABRIR ESTE(S) DIA(S)’.
+AO ESTACIONAR O MOUSE SOBRE UM DIA DO CALENDÁRIO, APARECERÁ TAMBÉM O BOTÃO ‘EDITAR’ (SINALIZADO POR UM ÍCONE EM FORMATO DE LÁPIS) NO CANTO SUPERIOR DIREITO DO QUADRADO DO DIA. E SERÁ POSSÍVEL CLICAR EM ‘EDITAR’, ‘FECHAR ESTE(S) DIA(S)’ E ‘ABRIR ESTE(S) DIA(S)’.
 
 OU SERÁ POSSÍVEL CLICAR COM O BOTÃO DIREITO DO MOUSE SOBRE UM DIA, PARA TER ACESSO AO BOTÃO ‘EDITAR’.
 
 ![imagem-19](/assets/guia-myhotel-calendario-de-precos/imagem-19.webp)
 
-E PARA ‘EDITAR’, ‘FECHAR ESTE(S) DIA(S)’ E ‘ABRIR ESTE(S) DIA(S)’ PARA UM PERÍODO DIRETAMENTE NO CALENDÁRIO, CLIQUE SOBRE O DIA INICIAL E ARRASTE PARA OS DEMAIS DIAS DO PERÍODO. EM SEGUIDA, CLIQUE NO BOTÃO ‘EDITAR’ (SINALIZADO PELO ÍCONE DE ‘LÁPIS’), DO ÚLTIMO DIA DO PERÍODO SELECIONADO.
+E PARA ‘EDITAR’, ‘FECHAR ESTE(S) DIA(S)’ E ‘ABRIR ESTE(S) DIA(S)’ PARA UM PERÍODO DIRETAMENTE NO CALENDÁRIO, CLIQUE SOBRE O DIA INICIAL E ARRASTE PARA OS DEMAIS DIAS DO PERÍODO. EM SEGUIDA, CLIQUE NO BOTÃO ‘EDITAR’ (SINALIZADO PELO ÍCONE DE ‘LÁPIS’), DO ÚLTIMO DIA DO PERÍODO SELECIONADO:
+
+Para mais informações, contate: o nosso atendimento online CHAT - ou através do e-mail: [servicedesk@omnibees.com](mailto:servicedesk@omnibees.com)
 
 ![imagem-20](/assets/guia-myhotel-calendario-de-precos/imagem-20.webp)
 ![imagem-21](/assets/guia-myhotel-calendario-de-precos/imagem-21.webp)
-
-Para mais informações, contate: o nosso atendimento online CHAT - ou através do e-mail: [servicedesk@omnibees.com](mailto:servicedesk@omnibees.com)
 
 Boas Vendas!!
 
 ![imagem-22](/assets/guia-myhotel-calendario-de-precos/imagem-22.webp)
 ![imagem-23](/assets/guia-myhotel-calendario-de-precos/imagem-23.webp)
+
 ![imagem-24](/assets/guia-myhotel-calendario-de-precos/imagem-24.webp)
