@@ -31,7 +31,7 @@ slug: /guia-myhotel-calendario-de-precos
 
 Neste guia, você vai aprender as funcionalidades da aba de calendário de preços.
 
-## Como chegar?
+### Como chegar?
 
 O caminho para acessar o calendário de preços do hotel é: **Menu de Navegação > Gestão > Tarifários e Disponibilidade > Calendário de Preços:**
 
@@ -129,7 +129,7 @@ Irá exibir um calendário que possibilita visualizar até 6 meses.
 **8. INFORMAÇÕES:**  
 Ao estacionar o mouse neste botão, será exibida uma legenda com as cores relacionadas à disponibilidade do hotel - *‘Aberto para Vendas’*, *‘Fechado para Vendas’*, *‘Fechado Parcialmente para Vendas’* e *‘Allotment Indisponível’* - e que aparecerão no calendário de preços:
 
-### Detalhes e Edição:
+### Detalhes e Edição:  
 
 ![imagem-10](/assets/guia-myhotel-calendario-de-precos/imagem-10.webp)  
 ![imagem-11](/assets/guia-myhotel-calendario-de-precos/imagem-11.webp)
@@ -146,11 +146,14 @@ Ao estacionar o mouse neste botão, será exibida uma legenda com as cores relac
 
 Ao clicar em um dia, abrirá uma ‘janela de ‘informações’, mostrando preços, disponibilidade e restrições que tem cadastrado para o tipo de quarto do tarifário:
 
-- **Preços:** valor por ‘Adulto (PAX) ou Criança’ de acordo com a ocupação configurada para o tipo de quarto.
+- **Preços:**  
+  Valor por ‘Adulto (PAX) ou Criança’ de acordo com a ocupação configurada para o tipo de quarto.
 
-- **Allotment:** quantidade de quartos disponíveis para vendas, distribuídos por ‘Allotment’ ou ‘Ocupação’.
+- **Allotment:**  
+  Quantidade de quartos disponíveis para vendas, distribuídos por ‘Allotment’ ou ‘Ocupação’.
 
-- **Restrições:** cadastro de ‘Mín. de Dias’, ‘Máx. de Dias’, ‘Estadia Certa’, ‘Dias de Antecedência’, ‘Fechado à Chegada’, ‘Fechado à Saída’ (‘Venda Parada’: informa se tem fecho de vendas aplicado para o dia).
+- **Restrições:**  
+  Cadastro de ‘Mín. de Dias’, ‘Máx. de Dias’, ‘Estadia Certa’, ‘Dias de Antecedência’, ‘Fechado à Chegada’, ‘Fechado à Saída’ (‘Venda Parada’: informa se tem fecho de vendas aplicado para o dia).
 
 E ao clicar no botão **‘Editar’** (sinalizado com ícone de lápis) no canto superior direito da janela de informações, aparecerão mais opções:
 
@@ -166,9 +169,11 @@ E ao clicar no botão **‘Editar’** (sinalizado com ícone de lápis) no cant
 
 8
 
-- **Editar:** será possível ‘Editar Detalhes da Tarifa / Tipo de Quarto’ para seguir com as atualizações de:
+- **Editar:**  
+  Será possível ‘Editar Detalhes da Tarifa / Tipo de Quarto’ para seguir com as atualizações de:
 
-- **‘Preços do Quarto’:** aqui também será possível fazer atualizações de preços por ‘Preço Fixo’ ou ‘Variação de Preço’:
+- **‘Preços do Quarto’:**  
+  Aqui também será possível fazer atualizações de preços por ‘Preço Fixo’ ou ‘Variação de Preço’:
 
 Para os tarifários com o ‘Tipo de Disponibilidade: Tarifário ou Tarifário com impacto no inventário’, além de atualizar o preço, também será possível
 
@@ -204,13 +209,16 @@ Para os tarifários com o ‘Tipo de Disponibilidade: Tarifário ou Tarifário c
 
 10
 
-- **‘Informação da Tarifa’:** informando os extras, as taxas, as ofertas e os canais que foram atribuídos ao tarifário:
+- **‘Informação da Tarifa’:**  
+  Informando os extras, as taxas, as ofertas e os canais que foram atribuídos ao tarifário:
 
 Após realizar a atualização das informações, clique em **‘Salvar’**.
 
-- **Fechar este(s) dia(s):** aplicar fecho de vendas para o dia ou período selecionado.
+- **Fechar este(s) dia(s):**  
+  Aplicar fecho de vendas para o dia ou período selecionado.
 
-- **Abrir este(s) dia(s):** aplicar abertura de vendas para o dia ou período selecionado.
+- **Abrir este(s) dia(s):**  
+  Aplicar abertura de vendas para o dia ou período selecionado.
 
 ![imagem-17](/assets/guia-myhotel-calendario-de-precos/imagem-17.webp)  
 ![imagem-18](/assets/guia-myhotel-calendario-de-precos/imagem-18.webp)
@@ -227,9 +235,9 @@ Após realizar a atualização das informações, clique em **‘Salvar’**.
 
 **IMPORTANTE SABER**
 
-AO ESTACIONAR O MOUSE SOBRE UM DIA DO CALENDÁRIO, APARECERÁ TAMBÉM O BOTÃO ‘EDITAR’ (SINALIZADO POR UM ÍCONE EM FORMATO DE LÁPIS) NO CANTO SUPERIOR DIREITO DO QUADRADO DO DIA. E SERÁ POSSÍVEL CLICAR EM ‘EDITAR’, ‘FECHAR ESTE(S) DIA(S)’ E ‘ABRIR ESTE(S) DIA(S)’:
+Ao estacionar o mouse sobre um dia do calendário, aparecerá também o botão ‘Editar’ (sinalizado por um ícone em formato de lápis) no canto superior direito do quadrado do dia. E será possível clicar em ‘Editar’, ‘Fechar este(s) dia(s)’ e ‘Abrir este(s) dia(s)’:
 
-OU SERÁ POSSÍVEL CLICAR COM O BOTÃO DIREITO DO MOUSE SOBRE UM DIA, PARA TER ACESSO AO BOTÃO ‘EDITAR’:
+Ou será possível clicar com o botão direito do mouse sobre um dia, para ter acesso ao botão ‘Editar’:
 
 ![imagem-19](/assets/guia-myhotel-calendario-de-precos/imagem-19.webp)
 
@@ -243,7 +251,7 @@ OU SERÁ POSSÍVEL CLICAR COM O BOTÃO DIREITO DO MOUSE SOBRE UM DIA, PARA TER A
 
 12
 
-E PARA ‘EDITAR’, ‘FECHAR ESTE(S) DIA(S)’ E ‘ABRIR ESTE(S) DIA(S)’ PARA UM PERÍODO DIRETAMENTE NO CALENDÁRIO, CLIQUE SOBRE O DIA INICIAL E ARRASTE PARA OS DEMAIS DIAS DO PERÍODO. EM SEGUIDA, CLIQUE NO BOTÃO ‘EDITAR’ (SINALIZADO PELO ÍCONE DE ‘LÁPIS’), DO ÚLTIMO DIA DO PERÍODO SELECIONADO:
+E para ‘Editar’, ‘Fechar este(s) dia(s)’ e ‘Abrir este(s) dia(s)’ para um período diretamente no calendário, clique sobre o dia inicial e arraste para os demais dias do período. Em seguida, clique no botão ‘Editar’ (sinalizado pelo ícone de ‘lápis’), do último dia do período selecionado:
 
 Para mais informações, contate: o nosso atendimento online CHAT - ou através do e-mail:  
 [servicedesk@omnibees.com](mailto:servicedesk@omnibees.com)
@@ -261,7 +269,7 @@ Para mais informações, contate: o nosso atendimento online CHAT - ou através 
 
 13
 
-# Boas Vendas!!
+**Boas Vendas!!**
 
 ![imagem-22](/assets/guia-myhotel-calendario-de-precos/imagem-22.webp)  
 ![imagem-23](/assets/guia-myhotel-calendario-de-precos/imagem-23.webp)
