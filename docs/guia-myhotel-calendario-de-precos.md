@@ -22,40 +22,40 @@ Em ‘Calendário de Preços’, será possível consultar os preços, restriç�
 
 ## Consultando o Calendário de Preços
 
-Após selecionar o "tipo de quarto" do tarifário que deseja consultar, é importante que você conheça as opções de **pesquisa e os filtros** disponíveis, que podem ajudar a encontrar as informações desejadas de maneira mais rápida. Veja a seguir:
+Após selecionar o "tipo de quarto" do tarifário que deseja consultar, é importante que você conheça as opções de **'pesquisa e os filtros'** disponíveis, que podem ajudar a encontrar as informações desejadas de maneira mais rápida. Veja a seguir:
 
 ![imagem-2](/assets/guia-myhotel-calendario-de-precos/imagem-2.webp)
 ![imagem-3](/assets/guia-myhotel-calendario-de-precos/imagem-3.webp)
 
 1.  **TARIFAS E PACOTE:** Nesta lista, serão exibidos os tarifários e pacotes criados pelo hotel (para tarifários do tipo pacote, o sistema os identificará com “[P]” antes do nome do tarifário).
 
-![imagem-4](/assets/guia-myhotel-calendario-de-precos/imagem-4.webp)
+    ![imagem-4](/assets/guia-myhotel-calendario-de-precos/imagem-4.webp)
 
 2.  **PESQUISAR E AGRUPAR POR:** Será possível buscar pelo nome do ‘Tarifário’, do ‘Tipo de Quarto’, pelo nome do ‘Canal’ de vendas e pelo nome do ‘Nível de Fidelização’ (caso o hotel tenha ativada a solução BeeLoyalty).
 
 3.  **ORDENAR POR:** Será possível ordenar a lista de tarifas e pacotes por: 'Mais recentes no topo', 'Mais antigas no topo', 'Ordenar de A-Z' e 'Ordenar de Z-A'.
 
-![imagem-5](/assets/guia-myhotel-calendario-de-precos/imagem-5.webp)
+    ![imagem-5](/assets/guia-myhotel-calendario-de-precos/imagem-5.webp)
 
 4.  **PREÇOS PARA:** Escolha o número de PAX (Adultos e Crianças) de acordo com a ocupação do tipo de quarto e veja o preço cadastrado.
 
-![imagem-6](/assets/guia-myhotel-calendario-de-precos/imagem-6.webp)
+    ![imagem-6](/assets/guia-myhotel-calendario-de-precos/imagem-6.webp)
 
 5.  **MÊS:** Selecione o mês que deseja consultar informações ou utilize as setas de ‘avançar ou retornar’.
 
-![imagem-7](/assets/guia-myhotel-calendario-de-precos/imagem-7.webp)
+    ![imagem-7](/assets/guia-myhotel-calendario-de-precos/imagem-7.webp)
 
 6.  **VISUALIZAÇÃO 1 MÊS:** Permite consultar as informações do mês selecionado.
 
-![imagem-8](/assets/guia-myhotel-calendario-de-precos/imagem-8.webp)
+    ![imagem-8](/assets/guia-myhotel-calendario-de-precos/imagem-8.webp)
 
 7.  **VISUALIZAÇÃO 6 MESES:** Irá exibir um calendário que possibilita visualizar até 6 meses.
 
-![imagem-9](/assets/guia-myhotel-calendario-de-precos/imagem-9.webp)
+    ![imagem-9](/assets/guia-myhotel-calendario-de-precos/imagem-9.webp)
 
 8.  **INFORMAÇÕES:** Ao passar o mouse sobre este botão, será exibida uma legenda com as cores relacionadas à disponibilidade do hotel - *‘Aberto para Vendas’, ‘Fechado para Vendas’, ‘Fechado Parcialmente para Vendas’ e ‘Allotment Indisponível’* - e que aparecerão no calendário de preços.
 
-![imagem-10](/assets/guia-myhotel-calendario-de-precos/imagem-10.webp)
+    ![imagem-10](/assets/guia-myhotel-calendario-de-precos/imagem-10.webp)
 
 ## Detalhes e Edição
 
@@ -67,53 +67,52 @@ Ao clicar em um dia, abrirá uma janela de ‘informações’, mostrando preço
 
 *   **Preços:** Valor por ‘Adulto (PAX)’ ou ‘Criança’ de acordo com a ocupação configurada para o tipo de quarto.
 *   **Allotment:** Quantidade de quartos disponíveis para vendas, distribuídos por ‘Allotment’ ou ‘Ocupação’.
-*   **Restrições:** Cadastro de ‘Mín. de Dias’, ‘Máx. de Dias’, ‘Estadia Certa’, ‘Dias de Antecedência’, ‘Fechado à Chegada’, ‘Fechado à Saída’. O campo ‘Venda Parada’ informa se há um fechamento de vendas aplicado para o dia.
+*   **Restrições:** Cadastro de ‘Mín. de Dias’, ‘Máx. de Dias’, ‘Estadia Certa’, ‘Dias de Antecedência’, ‘Fechado à Chegada’, ‘Fechado à Saída’ (‘Venda Parada’: informa se há fechamento de vendas aplicado para o dia).
 
 E ao clicar no botão **‘Editar’** (sinalizado com um ícone de lápis) no canto superior direito da janela de informações, aparecerão mais opções:
 
-*   **Editar**: Será possível **‘Editar Detalhes da Tarifa / Tipo de Quarto’** para seguir com as seguintes atualizações:
+*   **Editar**: Será possível **‘Editar Detalhes da Tarifa / Tipo de Quarto’** para seguir com as atualizações de:
+    *   **‘Preços do Quarto’:** Aqui também será possível fazer atualizações de preços por ‘Preço Fixo’ ou ‘Variação de Preço’.
 
-    *   **‘Preços do Quarto’:** Aqui também será possível fazer atualizações de preços por **Preço Fixo** ou **Variação de Preço**.
+        ![imagem-13](/assets/guia-myhotel-calendario-de-precos/imagem-13.webp)
 
-![imagem-13](/assets/guia-myhotel-calendario-de-precos/imagem-13.webp)
+        Para os tarifários com o ‘Tipo de Disponibilidade: Tarifário ou Tarifário com impacto no inventário’, além de atualizar o preço, também será possível **atualizar o ‘allotment’**:
 
-Para os tarifários com o **Tipo de Disponibilidade** como **Tarifário** ou **Tarifário com impacto no inventário**, além de atualizar o preço, também será possível **atualizar o ‘allotment’**:
+        ![imagem-14](/assets/guia-myhotel-calendario-de-precos/imagem-14.webp)
 
-![imagem-14](/assets/guia-myhotel-calendario-de-precos/imagem-14.webp)
+    *   **‘Restrições do Tarifário’:**
 
-*   **‘Restrições do Tarifário’:**
+        ![imagem-15](/assets/guia-myhotel-calendario-de-precos/imagem-15.webp)
 
-![imagem-15](/assets/guia-myhotel-calendario-de-precos/imagem-15.webp)
+    *   **‘Fechar/Abrir Vendas’:**
 
-*   **‘Fechar/Abrir Vendas’:**
+        ![imagem-16](/assets/guia-myhotel-calendario-de-precos/imagem-16.webp)
 
-![imagem-16](/assets/guia-myhotel-calendario-de-precos/imagem-16.webp)
+    *   **‘Informação da Tarifa’:** Informando os extras, as taxas, as ofertas e os canais que foram atribuídos ao tarifário.
 
-*   **‘Informação da Tarifa’:** Informando os extras, as taxas, as ofertas e os canais que foram atribuídos ao tarifário.
+        ![imagem-17](/assets/guia-myhotel-calendario-de-precos/imagem-17.webp)
 
-![imagem-17](/assets/guia-myhotel-calendario-de-precos/imagem-17.webp)
+        Após realizar a atualização das informações, clique em **‘Salvar’**.
 
-Após realizar a atualização das informações, clique em **‘Salvar’**.
-
-*   **Fechar este(s) dia(s):** Aplicar fechamento de vendas para o dia ou período selecionado.
+*   **Fechar este(s) dias(s):** Aplicar fechamento de vendas para o dia ou período selecionado.
 *   **Abrir este(s) dia(s):** Aplicar abertura de vendas para o dia ou período selecionado.
 
 ![imagem-18](/assets/guia-myhotel-calendario-de-precos/imagem-18.webp)
 
 ## IMPORTANTE SABER
 
-**Ao passar o mouse sobre um dia do calendário, aparecerá também o botão ‘Editar’ (sinalizado por um ícone de lápis) no canto superior direito do dia. A partir daí, será possível clicar em ‘Editar’, ‘Fechar este(s) dia(s)’ e ‘Abrir este(s) dia(s)’.**
+**Ao passar o mouse sobre um dia do calendário, aparecerá também o botão ‘Editar’ (sinalizado por um ícone em formato de lápis) no canto superior direito do dia. Será possível clicar em ‘Editar’, ‘Fechar este(s) dia(s)’ e ‘Abrir este(s) dia(s)’.**
 
-**Ou, será possível clicar com o botão direito do mouse sobre um dia para ter acesso ao botão ‘Editar’.**
+**Ou será possível clicar com o botão direito do mouse sobre um dia para ter acesso ao botão ‘Editar’.**
 
 ![imagem-19](/assets/guia-myhotel-calendario-de-precos/imagem-19.webp)
 
-**Para editar, fechar ou abrir um período de dias diretamente no calendário, clique sobre o dia inicial e arraste até o final do período desejado. Em seguida, clique no botão ‘Editar’ (ícone de lápis) que aparece no último dia da seleção.**
+**Para ‘Editar’, ‘Fechar este(s) dia(s)’ e ‘Abrir este(s) dia(s)’ para um período diretamente no calendário, clique sobre o dia inicial e arraste para os demais dias do período. Em seguida, clique no botão ‘Editar’ (sinalizado pelo ícone de ‘lápis’), do último dia do período selecionado.**
 
 ![imagem-20](/assets/guia-myhotel-calendario-de-precos/imagem-20.webp)
 ![imagem-21](/assets/guia-myhotel-calendario-de-precos/imagem-21.webp)
 
-Para mais informações, contate nosso atendimento online via chat ou através do e-mail: [servicedesk@omnibees.com](mailto:servicedesk@omnibees.com)
+Para mais informações, contate o nosso atendimento online CHAT ou através do e-mail: [servicedesk@omnibees.com](mailto:servicedesk@omnibees.com)
 
 Boas Vendas!!
 
